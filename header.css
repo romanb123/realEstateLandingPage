@@ -3,4 +3,6 @@ header{height: 836px; background-color: lightcyan;}
 .header-content-container img,
 .header-content-container .header-content{flex:0 0 50%;}
 .header-content-container img{max-width: 720px; align-self: start;}
-.header-content{padding: 45px 105px 0 120px; box-sizing: border-box;}
+.header-content{padding: 45px 122px 0 120px; box-sizing: border-box;}
+.header-content h1{font-family: Lexend; font-size: 40px; font-weight: 900;line-height: 50px;text-align: left;color :#1B1C57;text-transform: capitalize;}
+.outlined-text{ color:white;  -webkit-text-stroke: 1px #1B1C57; }
