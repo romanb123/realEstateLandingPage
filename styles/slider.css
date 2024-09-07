@@ -12,3 +12,4 @@
 p.rater-name{color:#0E1735;font-family: Lexend; font-size: 14px; font-weight: 500; line-height: 22px; text-align: left;}
 p.rater-role{color:#888B97;margin-top: 4px;}
 .slider-card-bottom-area .rate{display: flex;align-items: center;justify-content: space-between; gap:16px;}
+.rate-value{font-family: Lexend; font-size: 20px; font-weight: 600; line-height: 28px; text-align: left;color:#3C4563; }
