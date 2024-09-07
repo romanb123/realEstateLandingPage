@@ -7,4 +7,8 @@
 .slider-card-content h4{margin:0px; }
 .slider-card-content h4{font-family: Lexend; font-size: 20px; font-weight: 600; color:#1B1C57;}
 .slider-card-content p{font-family: Lexend; font-size: 14px; font-weight: 400; line-height: 24px; text-align: left;color : #626687;margin-top:23px;}
-
+.slider-card-bottom-area{display:flex; justify-content: space-between;}
+.slider-card-bottom-area .reviewer{display:flex;}
+p.rater-name{color:#0E1735;font-family: Lexend; font-size: 14px; font-weight: 500; line-height: 22px; text-align: left;}
+p.rater-role{color:#888B97;margin-top: 4px;}
+.slider-card-bottom-area .rate{display: flex;align-items: center;justify-content: space-between; gap:16px;}
