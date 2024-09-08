@@ -1,4 +1,4 @@
-.subscribe-section{max-width: 1200px;margin: auto;display: flex; justify-content: space-between; margin: auto;height: 312px; background-image: url("/images/subscribe/subscribe-background.svg");background-size: contain;}
+.subscribe-section{max-width: 1200px;margin: auto;display: flex; justify-content: space-around; margin: auto;height: 312px; background-image: url("/images/subscribe/subscribe-background.svg");background-size: contain;}
 .subscribe-form-inner{position: relative; height: 56px;}
 .subscribe-form-container{position:relative;height: 56px;box-sizing: border-box; padding-top: 60px; text-align: center;}
 .subscribe-form-container{max-width:496px; margin: auto;}
@@ -6,3 +6,10 @@
 .subscribe-form-container img{position: absolute; z-index: 2; top: 15px; left: 24px;}
 .subscribe-form-container button{ z-index: 2; position: absolute; right: 4px; top: 3px; width: 129px; height: 50px; border-radius: 45px;background-color: #10B981; border: 0px solid white; color:white;font-family: Lexend; font-size: 14px; font-weight: 600; line-height: 22px; text-align: left;text-transform: capitalize; padding-left:16px; font-weight: 400;}
 .subscribe-form-container h2{font-family: Lexend;font-size: 32px;font-weight: 600; line-height: 48px;text-align: center;color:#1B1C57; max-width:422px; }
+.left-column{padding-top:45px;}
+.left-column .top-section{padding-top:20px;}
+.left-column .top-section :nth-child(1){margin-right:18px;}
+.left-column .top-section :nth-child(2){margin-bottom:-26px;}
+.left-column .bottom-section{padding-top:22px;}
+.left-column .bottom-section :nth-child(1){margin-right:12px;}
+.left-column .bottom-section :nth-child(2){margin-bottom:26px;}
