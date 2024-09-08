@@ -1,4 +1,5 @@
-.subscribe-section{max-width: 1200px;margin: auto; margin: auto;}
+.subscribe-section{max-width: 1200px;margin: auto; margin: auto;height: 312px; background-image: url("/images/subscribe/subscribe-background.svg");background-size: contain;}
+.subscribe-form-inner{position: relative; height: 56px;}
 .subscribe-form-container{position:relative;height: 56px;}
 .subscribe-form-container{max-width:496px; margin: auto;}
 .subscribe-form-container input{position: absolute;top:0;left:0; width:100%;height: 100%;border-radius: 45px; padding: 17px 64px; box-sizing: border-box; border:1px solid #E0E3EB;font-weight: 600;}
