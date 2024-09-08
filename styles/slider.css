@@ -1,0 +1,16 @@
+.top-line{width:32px;height: 1px;margin: auto; background-color: #F59E0B;}
+.reviews-slider h4{font-family: Lexend; font-size: 14px; font-weight: 500; line-height: 0px; text-align: center;color:#F59E0B;}
+.reviews-slider h2{font-family: Lexend; font-size: 32px; font-weight: 600; line-height: 0px; text-align: center;color:#1B1C57; margin-top:42px;}
+.slider-card-content{padding:32px;max-width: 612px; text-align: left; margin: auto;margin-top: -156px; background-color: white;  position: relative; border-radius: 16px; }
+.slider-card{max-inline-size: 740px;}
+.slider-card-content p,
+.slider-card-content h4{margin:0px; }
+.slider-card-content h4{font-family: Lexend; font-size: 20px; font-weight: 600; color:#1B1C57; }
+.slider-card-content h4:first-child{line-height: unset;}
+.slider-card-content p{font-family: Lexend; font-size: 14px; font-weight: 400; line-height: 24px; text-align: left;color : #626687;margin-top:23px;}
+.slider-card-bottom-area{display:flex; justify-content: space-between;}
+.slider-card-bottom-area .reviewer{display:flex;}
+p.rater-name{color:#0E1735;font-family: Lexend; font-size: 14px; font-weight: 500; line-height: 22px; text-align: left;}
+p.rater-role{color:#888B97;margin-top: 4px;}
+.slider-card-bottom-area .rate{display: flex;align-items: center;justify-content: space-between; gap:16px;}
+.rate-value{font-family: Lexend; font-size: 20px; font-weight: 600; line-height: 28px; text-align: left;color:#3C4563; }
