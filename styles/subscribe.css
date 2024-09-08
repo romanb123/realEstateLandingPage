@@ -13,3 +13,7 @@
 .left-column .bottom-section{padding-top:22px;}
 .left-column .bottom-section :nth-child(1){margin-right:12px;}
 .left-column .bottom-section :nth-child(2){margin-bottom:26px;}
+.right-column{padding-top:45px;}
+.right-column .top-section{padding-top:20px;}
+.right-column .top-section :nth-child(2){margin-bottom:-56px;}
+.right-column .bottom-section :nth-child(2){margin-bottom:-26px;}
