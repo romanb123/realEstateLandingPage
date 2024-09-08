@@ -1,0 +1,5 @@
+footer{display: flex;justify-content: space-between;}
+.footer-container{display: flex;justify-content: space-between;max-width: 1200px; margin: auto;}
+.footer-info{max-width: 320px;}
+.footer-info p{font-family: Lexend; font-size: 14px; font-weight: 400; line-height: 24px; text-align: left;color:#626687;}
+.footer h4{font-family: Lexend; font-size: 18px; font-weight: 600; line-height: 22.5px; text-align: left;color:#0E1735;}
