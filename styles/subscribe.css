@@ -1,4 +1,4 @@
-.subscribe-section{max-width: 1200px;margin: auto;display: flex; justify-content: space-around; margin: auto;height: 312px; background-image: url("/images/subscribe/subscribe-background.svg");background-size: contain; position:relative;}
+.subscribe-section{max-width: 1200px;display: flex; justify-content: space-around; margin: auto; margin-top:126px;height: 312px; background-image: url("/images/subscribe/subscribe-background.svg");background-size: contain; position:relative;}
 .subscribe-form-inner{position: relative; height: 56px;}
 .subscribe-form-container{position:relative;height: 56px;box-sizing: border-box; padding-top: 60px; text-align: center;}
 .subscribe-form-container{max-width:496px; margin: auto;}
@@ -17,4 +17,5 @@
 .right-column .top-section{padding-top:20px;}
 .right-column .top-section :nth-child(2){margin-bottom:-56px;}
 .right-column .bottom-section :nth-child(2){margin-bottom:-26px;}
-.subscribe-section::after { content: ""; display: block; width: 438px; height: 494px; background-image: url("/images/vectors/Vector2.svg"); position: absolute; bottom: 0; right: -159px; }
+.subscribe-section::after { content: ""; display: block; width: 438px; height: 494px; background-image: url("/images/vectors/Vector2.svg"); position: absolute; bottom: 0; right: -159px; opacity: 0.3;z-index: 1;}
+.subscribe-section::before { content: ""; display: block; width: 438px; height: 494px; background-image: url("/images/vectors/Vector3.svg"); position: absolute; bottom: -40px; left: -227px; opacity: 0.5; z-index: 1; transform: rotate(90deg); }
