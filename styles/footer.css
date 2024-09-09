@@ -1,0 +1,10 @@
+footer{display: flex;justify-content: space-between;}
+.footer-container{display: flex;justify-content: space-between;max-width: 1200px; width:1200px; margin: auto;padding-top:77px;}
+.footer-info{max-width: 320px;}
+.footer-info p{font-family: Lexend; font-size: 14px; font-weight: 400; line-height: 24px; text-align: left;color:#626687;}
+.footer h4{font-family: Lexend; font-size: 18px; font-weight: 600; line-height: 22.5px; text-align: left;color:#0E1735;}
+.footer-info{flex:0 0 320px; margin-right:160px;}
+.footer-info .social-icons{display: flex; gap:24px;margin-top:24px;}
+.footer-Property h4,.footer-Contact h4,.footer-Article h4{font-family: Lexend; font-size: 18px;font-weight: 600; line-height: 22.5px;text-align: left;color:#0E1735; margin:0px; margin-top:8px; }
+.footer-Property ul,.footer-Contact ul,.footer-Article ul{padding:0;}
+.footer-Property li,.footer-Contact li,.footer-Article li{margin-bottom:18px;font-family: Lexend; font-size: 14px; font-weight: 400; line-height: 17.5px; text-align: left; list-style: none; }
