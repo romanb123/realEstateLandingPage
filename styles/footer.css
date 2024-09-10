@@ -8,5 +8,5 @@ footer{display: flex;justify-content: space-between;}
 .footer-Property h4,.footer-Contact h4,.footer-Article h4{font-family: Lexend; font-size: 18px;font-weight: 600; line-height: 22.5px;text-align: left;color:#0E1735; margin:0px; margin-top:8px; }
 .footer-Property ul,.footer-Contact ul,.footer-Article ul{padding:0;}
 .footer-Property li,.footer-Contact li,.footer-Article li{margin-bottom:18px;font-family: Lexend; font-size: 14px; font-weight: 400; line-height: 17.5px; text-align: left; list-style: none; }
-.footer-Contact::after { content: ""; display: block; width: 438px; height: 494px; background-image: url("/realEstateLandingPage/images/vectors/Vector3.svg"); position: absolute; bottom: 0; z-index: 12;}
+.footer-Contact::after { content: ""; display: block; width: 438px; height: 494px; background-image: url("/images/vectors/Vector3.svg"); position: absolute; bottom: 0; z-index: 12;}
 .footer-Contact{position: relative;}

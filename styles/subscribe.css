@@ -17,5 +17,5 @@
 .right-column .top-section{padding-top:20px;}
 .right-column .top-section :nth-child(2){margin-bottom:-56px;}
 .right-column .bottom-section :nth-child(2){margin-bottom:-26px;}
-.subscribe-section::after { content: ""; display: block; width: 438px; height: 494px; background-image: url("/realEstateLandingPage/images/vectors/Vector2.svg"); position: absolute; bottom: 0; right: -159px; opacity: 0.3;z-index: 1;}
-.subscribe-section::before { content: ""; display: block; width: 438px; height: 494px; background-image: url("/realEstateLandingPage/images/vectors/Vector3.svg"); position: absolute; bottom: -40px; left: -227px; opacity: 0.5; z-index: 1; transform: rotate(90deg); }
+.subscribe-section::after { content: ""; display: block; width: 438px; height: 494px; background-image: url("/images/vectors/Vector2.svg"); position: absolute; bottom: 0; right: -159px; opacity: 0.3;z-index: 1;}
+.subscribe-section::before { content: ""; display: block; width: 438px; height: 494px; background-image: url("/images/vectors/Vector3.svg"); position: absolute; bottom: -40px; left: -227px; opacity: 0.5; z-index: 1; transform: rotate(90deg); }
