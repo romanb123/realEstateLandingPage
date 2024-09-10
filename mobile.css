@@ -1,29 +1,23 @@
-@media only screen and (max-device-width: 768px){
-    .header-content-container{display: block; }
-.header-content{padding:12px;}
-    header{height: unset;}
-    .partners-logos{    justify-content: space-around;
- 
-        gap: 5px;
-        flex-wrap: wrap;
-        margin-top:3px;
-        margin-bottom:3px;
-    }
-    .header-content h4{text-align: center; margin-bottom:5px;}
-    .search-container input{font-size: 11px;}
-    .header-content-container img {
-max-width: 100%;
-    }
-    .reviews-slider h2{line-height: 32px;}
-    .slider-card-content{margin-top:-34px;}
-    .subscribe-section{background-image: unset; background-color: #B0C4DE;height: unset;padding-bottom:45px; flex-direction: column; margin-top:15px;} 
-    .subscribe-background-right ,  .subscribe-background-left{ display: none; }
-.center-column{height: 332px;
-    padding: 12px;}
-    .left-column .top-section,.left-column .bottom-section{display: flex;justify-content: center;}
-    .right-column .top-section,.right-column .bottom-section{display: flex;justify-content: center;}
-    .footer-container{flex-direction: column;padding-left:20px;}
-    .footer-background-right{display: none;}
+@media only screen and (max-device-width: 768px) {
+    .header-content-container { display: block; }
+    .header-content {    padding: 12px; }
+    header {  height: unset; }
+    .partners-logos { justify-content: space-around;  gap: 5px; flex-wrap: wrap;  margin-top: 3px; margin-bottom: 3px;}
+    .header-content h4 { text-align: center;  margin-bottom: 5px;  }
+    .search-container input {   font-size: 11px; }
+    .header-content-container img {    max-width: 100%; }
+    .reviews-slider h2 {    line-height: 32px;  }
+    .slider-card-content {    margin-top: -34px;   }
+    .subscribe-section {    background-image: unset;     background-color: #B0C4DE;     height: unset;    padding-bottom: 45px;    flex-direction: column;  margin-top: 15px;  }
+    .subscribe-background-right,
+    .subscribe-background-left {   display: none; }
+    .center-column { height: 332px;padding: 12px; }
+    .left-column .top-section,
+    .left-column .bottom-section { display: flex; justify-content: center; }
+    .right-column .top-section,
+    .right-column .bottom-section { display: flex;justify-content: center; }
+    .footer-container { flex-direction: column; padding-left: 20px;}
+    .footer-background-right { display: none; }
 }
 
 
