@@ -13,3 +13,4 @@ header{height: 836px;}
 .search-container button{ z-index: 2; position: absolute; right: 4px; top: 3px; width: 109px; height: 50px; border-radius: 45px;background-color: #10B981; border: 0px solid white; color:white;font-family: Lexend; font-size: 14px; font-weight: 600; line-height: 22px; text-align: left;text-transform: capitalize; padding-left:16px; font-weight: 400;}
 .header-content h4{font-family: Lexend; font-size: 16px; font-weight: 400; line-height: 32px; text-align: left;color: #888B97; text-transform: capitalize;padding-top:12px;}
 .partners-logos{display: flex; justify-content: space-around; justify-content: flex-start; list-style: none; padding:0; gap:32px;}
+.header-background-image { display: block; width: 438px; height: 494px; position: absolute; left: 0; opacity: 1; z-index: 1; }
