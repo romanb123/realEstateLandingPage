@@ -6,12 +6,14 @@ realEstate = {
     initSlider: function(){
         $('.nonloop').owlCarousel({
             center: true,
-            items:1.8,
+            items:1,
             loop:false,
-            margin:0,
+            margin:25,
             responsive:{
-                600:{
-                    items:1
+                1000:{
+                    items:1.8,
+                    margin:56,
+
                 }
             }
         });
