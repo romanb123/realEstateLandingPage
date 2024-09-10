@@ -11,7 +11,7 @@ realEstate = {
             margin:0,
             responsive:{
                 600:{
-                    items:1.8
+                    items:1
                 }
             }
         });
